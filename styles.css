@@ -1,0 +1,152 @@
+body{
+    margin: auto;
+}
+
+.container-1{
+    
+    height: 700px;
+    margin-left:0px;
+    margin-right:0px;
+    background-image: url("images/cover.jpg");
+
+    background-size: cover;
+}
+.navigation-bar{
+    position: fixed;
+    float:right;
+     
+    margin-top: 10px;
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+    
+}
+.navigation-bar a{
+    margin: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 20px;
+    padding-top: 20px;
+    
+}
+.navigation-bar a:hover{
+    color: white;
+}
+.right-portion{
+    height: 550px;
+    width: 500px;
+    background-color: black;
+    opacity: 0.8;
+    float: right;
+    margin-top: 0px;
+    
+}
+.pizza-logo{
+    margin-top: 20px;
+    
+    
+}
+.right-portion h1{
+    color:rgb(251, 251, 3);
+    font-size: 55px;
+    font-family: cursive;
+    font-weight: 800;
+    margin-left: 40px;
+    font-family: 'Bungee Spice', cursive;
+}
+.right-portion h2{
+    color: white;
+    font-size: 50px;
+    font-family: cursive;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-family: 'Aboreto', cursive;
+   
+}
+.right-portion p{
+    color: white;
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top:40px;
+    font-family: 'Aboreto', cursive;
+    font-weight: 800;
+
+}
+.menu-title{
+    background-color: yellow;
+    text-align: center;
+    font-weight: 800;
+    height: 100px;
+    padding-top: 20px;
+    font-size: 100px;
+    font-family: 'Bungee Spice', cursive;
+    
+}
+.btn{
+    margin-left: 40px;
+    font-size: 30px;
+    
+}
+
+
+.menu {
+    
+    background-image: linear-gradient(to bottom, rgb(148, 247, 148), rgb(245, 131, 131)
+    );
+        background-size: cover;
+   
+    height: 2200px;
+    text-align: center;
+    
+}
+
+.menu h1{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Bungee Spice', cursive;
+    font-size: 80px;
+}
+.menu h2{
+    font-family: 'Aboreto', cursive;
+    font-weight: 1000;
+    margin-top: 50px;
+    text-decoration: underline;
+
+}
+
+.margherita{
+    border-radius: 100%;
+    width: 100px;
+    height:100px;
+    margin-right: 30px;
+    
+}
+.table-div{
+    width: 70%;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+.table-div td{
+    font-family: 'Aboreto', cursive;
+    font-weight: 600;
+}
+.table-th{
+    margin-top: 30px;
+    font-family: 'Aboreto', cursive;
+    color: yellow;
+   
+    font-size: 20px;
+}
+.table-2{
+    margin-bottom: 50px;
+}
+.review-img{
+    width: 50px;
+    height:50px;
+    border-radius: 100%;
+}
+
